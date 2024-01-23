@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qjo6l66jhin3"
-path="res://.godot/imported/coollogo_com-69191361-2.png-62b3794c23efd9ae7155082d5d7314b7.ctex"
+uid="uid://br05ouikmmhsl"
+path="res://.godot/imported/coollogo_com-69191361-2.png-13f35235c79266c4a229dec9e3e96bf5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://coollogo_com-69191361-2.png"
-dest_files=["res://.godot/imported/coollogo_com-69191361-2.png-62b3794c23efd9ae7155082d5d7314b7.ctex"]
+source_file="res://Assets/coollogo_com-69191361-2.png"
+dest_files=["res://.godot/imported/coollogo_com-69191361-2.png-13f35235c79266c4a229dec9e3e96bf5.ctex"]
 
 [params]
 

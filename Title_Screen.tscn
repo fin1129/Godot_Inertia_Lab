@@ -1,11 +1,11 @@
-[gd_scene load_steps=11 format=3 uid="uid://cdt1hogflhwdf"]
+[gd_scene load_steps=11 format=3 uid="uid://4yjw3mxb75io"]
 
 [ext_resource type="Script" path="res://Title_Screen.gd" id="1_sp3d3"]
 [ext_resource type="VideoStream" path="res://fly-stay.ogv" id="2_73qtr"]
 [ext_resource type="VideoStream" path="res://fly-in.ogv" id="3_j2fco"]
-[ext_resource type="Texture2D" uid="uid://xsm5w1co6wqk" path="res://outer spacefinal.png" id="3_uj17p"]
-[ext_resource type="Texture2D" uid="uid://dpbiu0st1syvx" path="res://coollogo_com-69191361-3.png" id="3_ullcx"]
-[ext_resource type="Texture2D" uid="uid://dl0moqw2bkflu" path="res://title.png" id="4_thfoh"]
+[ext_resource type="Texture2D" uid="uid://bl37blcp4lc2u" path="res://outer spacefinal.png" id="3_uj17p"]
+[ext_resource type="Texture2D" uid="uid://bekt67daaqeaq" path="res://coollogo_com-69191361-3.png" id="3_ullcx"]
+[ext_resource type="Texture2D" uid="uid://bv3mkpfyt6v8m" path="res://title.png" id="4_thfoh"]
 
 [sub_resource type="Animation" id="Animation_my8jp"]
 resource_name = "Fade"
